@@ -47,7 +47,7 @@ A custom filter was created to isolate repeated authentication failures and high
 
 A correlated view combining failed login attempts with subsequent high-privilege administrative actions.
 
-![Suspicious Activity Dashboard](Event_Viewer_Image_3.png.jpeg)
+![Suspicious Activity Dashboard](Event_Viewer_Image_5.png.jpeg)
 
 ---
 
