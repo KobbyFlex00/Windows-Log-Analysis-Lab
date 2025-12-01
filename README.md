@@ -39,7 +39,7 @@ This project simulates a real-world Blue Team scenario involving the detection o
 
 A custom filter was created to isolate repeated authentication failures and highlight potential brute force activity.
 
-![Failed Login Tracker](Event_Viewer_Image_1.png)
+![Failed Login Tracker](Event_Viewer_Image_1.png.jpeg)
 
 ---
 
@@ -47,7 +47,7 @@ A custom filter was created to isolate repeated authentication failures and high
 
 A correlated view combining failed login attempts with subsequent high-privilege administrative actions.
 
-![Suspicious Activity Dashboard](Event_Viewer_Image_3.png)
+![Suspicious Activity Dashboard](Event_Viewer_Image_3.png.jpeg)
 
 ---
 
